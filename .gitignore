@@ -15,3 +15,8 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+
+
+# Datos y estado de Hermes (cualquier carpeta llamada data)
+data/
+docker/workspace/
