@@ -1,0 +1,17 @@
+# Secretos
+.env
+*.key
+*.pem
+credentials*.json
+token*.json
+
+# Datos del agente (carpeta de trabajo y estado)
+workspace/*
+!workspace/.gitkeep
+.hermes/
+
+# Python / sistema
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
