@@ -20,3 +20,5 @@ __pycache__/
 # Datos y estado de Hermes (cualquier carpeta llamada data)
 data/
 docker/workspace/
+
+LEARNINGS.md
